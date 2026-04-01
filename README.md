@@ -1,4 +1,3 @@
-Dear Gerry,
 
 I built LandScout Intelligence, an AI-orchestrated land analysis platform.
 
@@ -27,6 +26,3 @@ TOOLS:
 This demonstrates orchestrating AI to handle ambiguity (data extraction) 
 while custom code handles precision (scoring), achieving 1,440x improvement 
 over manual work.
-
-Best,
-[Your Name]
